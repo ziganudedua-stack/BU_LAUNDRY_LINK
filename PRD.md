@@ -3,7 +3,7 @@ LaundryLink — Product Requirement Document
 
 1.	Problem Overview
 
-Students at Babcock University regularly struggle to access convenient laundry services. Most students live in hostels with limited washing facilities, tight academic schedules, and restricted movement around campus. When clothes pile up, students often have to carry heavy bags to laundry operators, wait for availability, or rely on word-of-mouth recommendations to find someone who can wash their clothes.
+Students at Babcock University regularly struggle to access convenient laundry services. Most students live in hostels with limited washing facilities, tight academic schedules, and restricted movement around campus. When clothes pile up, students often have to carry heavy bags to laundry operators, wait for availability, or rely on word-of-mouth recommendations to find someone who can wash their clothes..
 
 The process is disorganised. Students do not know which laundry services are available, how much they charge, how long they will take, or whether their clothes are ready. Laundry 
 
