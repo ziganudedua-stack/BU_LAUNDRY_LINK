@@ -1,7 +1,7 @@
 
 LaundryLink — Product Requirement Document
 
-1.	Problem Overview
+##1.	Problem Overview
 
 Students at Babcock University regularly struggle to access convenient laundry services. Most students live in hostels with limited washing facilities, tight academic schedules, and restricted movement around campus. When clothes pile up, students often have to carry heavy bags to laundry operators, wait for availability, or rely on word-of-mouth recommendations to find someone who can wash their clothes.
 
@@ -11,7 +11,7 @@ operators, on the other hand, struggle to find customers consistently and manage
 
 Our team wants to investigate these challenges and determine whether a digital platform could connect students with laundry service providers on and around Babcock University campus.
 
-1.	Research Objectives
+##2.Research Objectives
 
 The purpose of this research is to:
 
@@ -23,7 +23,7 @@ The purpose of this research is to:
 · Determine whether students would use a digital laundry booking platform.
 · Identify the features users would consider most useful.
 
-1.	Research Method
+##3.	Research Method
 
 Our team will conduct research using:
 
@@ -32,7 +32,7 @@ Our team will conduct research using:
 
 The findings will be used to determine the actual problem and define the requirements for the proposed solution.
 
-1.	Research Findings
+##4.	Research Findings
 
 4.0 Survey Results
 
@@ -78,7 +78,7 @@ To be populated after survey collection.
 
 To be populated after survey collection.
 
-1.	Research Findings Summary
+##5.	Research Findings Summary
 
 Based on the survey responses collected, several important findings will be identified.
 
@@ -93,7 +93,7 @@ The preliminary observation suggests that access to organised laundry services i
 
 The findings will support the idea of a platform such as LaundryLink that allows students to book laundry services digitally.
 
-1.	Target Users
+##6.	Target Users
 
 
 6.1 Students
@@ -128,7 +128,7 @@ They will manage the platform and help ensure that students and laundry provider
 · Monitor orders.
 · Handle reports and complaints.
 
-1.	Proposed Solution
+##7.	Proposed Solution
 
 LaundryLink (Babcock Laundry Booking Platform) is a proposed digital platform that connects students with available laundry service providers around Babcock University.
 
@@ -142,11 +142,17 @@ The solution is intended to make the laundry process more organised, convenient,
 
 to access.
 
-1.	MVP Features
+##8.	MVP Features
 
 The Minimum Viable Product will focus only on the features necessary to test whether LaundryLink can solve the identified laundry problem.
 
-Student Features
+Student/User Features
+  i.   As a student, I want to create an account so that I can access LaundryLink.
+	ii.  As a student, I want to log in so that I can access my personal account.
+	iii. As a student, I want to view my profile so that I can manage my personal information.
+	iv.  As a student, I want to access the laundry marketplace so that I can view available laundry providers.
+	v.   As a student, I want to view laundry providers and their prices so that I can choose a service that suits my budget.
+	vi.  As a student, I want to select a laundry service so that I can request the service I need.
 
 · Student registration and login.
 · Student profile.
@@ -179,7 +185,7 @@ Admin Features
 · Report management.
 
 
-1.	Functional & Non-Functional Requirements
+##9.	Functional & Non-Functional Requirements
 
 9.1 Functional Requirements
 
@@ -208,18 +214,16 @@ The system should be:
 · Scalable: The platform should be capable of supporting more users and laundry services in the future.
 
 
-1.	Risks and Assumptions
+##10.	Risks and Assumptions
 
 10.1 Risks
 
-Risk | Impact | Mitigation
-Few providers use LaundryLink | Students may not find available services Recruit and onboard more providers
-Poor internet connection | Order requests may fail or be delayed Keep the platform lightweight
-Unverified providers | May create safety and quality concerns Verify providers before approval
-Low student adoption | Few students may use the platform Test with students and improve based on feedback
-Incorrect pickup locations | Providers may have difficulty finding students Use recognised campus locations
-
-Lost or damaged clothes | Trust and liability issues Provider verification and order tracking
+| Risk                          | Impact                                    | Mitigation |
+|---                            |---                                        |---|
+| Few providers use LaundryLink | Students may not find available services  | Recruit more providers |
+| Poor internet connection      | Requests may fail or be delayed           | Keep the platform lightweight |
+| Unverified providers          | Safety and quality concerns               | Verify providers |
+| Low student adoption          | Few students may use the platform         | Test with students |
 
 10.2 Assumptions
 
@@ -233,7 +237,7 @@ The project assumes that:
 · There is sufficient demand for laundry services.
 · The proposed service can operate within applicable university rules.
 
-1.	Success Metrics & Future Improvements
+##11.	Success Metrics & Future Improvements
 
 11.1 Success Metrics
 
