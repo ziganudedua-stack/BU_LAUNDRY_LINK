@@ -147,42 +147,49 @@ to access.
 The Minimum Viable Product will focus only on the features necessary to test whether LaundryLink can solve the identified laundry problem.
 
 Student/User Features
-  i.   As a student, I want to create an account so that I can access LaundryLink.
+    
+	i.   As a student, I want to create an account so that I can access LaundryLink.
+  
 	ii.  As a student, I want to log in so that I can access my personal account.
+	
 	iii. As a student, I want to view my profile so that I can manage my personal information.
+	
 	iv.  As a student, I want to access the laundry marketplace so that I can view available laundry providers.
+	
 	v.   As a student, I want to view laundry providers and their prices so that I can choose a service that suits my budget.
+	
 	vi.  As a student, I want to select a laundry service so that I can request the service I need.
+	
+Main User Features
 
-· Student registration and login.
-· Student profile.
-· Pickup location.
-· Preferred pickup time.
-· Laundry service selection.
-· Order request.
-· Provider information.
-· Order status.
-
-· Order cancellation.
+     i.   Student registration and login.
+     ii·  Student profile.
+    iii·  Pickup location.
+    iv·   Preferred pickup time.
+    v·    Laundry service selection.
+    vi·   Order request.
+    vii· Provider information.
+    viii· Order status.
+    ix· Order cancellation.
 
 Laundry Provider Features
 
-· Provider registration and login.
-· Provider profile.
-· Provider verification.
-· Availability status.
-· Order requests.
-· Accept/reject order requests.
-· Pickup information.
-· Order completion.
+    i·    Provider registration and login.
+    ii·   Provider profile.
+    iii·  Provider verification.
+    iv·   Availability status.
+    v·    Order requests.
+    vi·   Accept/reject order requests.
+    vii·  Pickup information.
+    viii· Order completion.
 
 Admin Features
 
-· Admin login.
-· User management.
-· Provider verification.
-· Order management.
-· Report management.
+    i·   Admin login.
+    ii·  User management.
+    iii· Provider verification.
+    iv·  Order management.
+    v·   Report management.
 
 
 ##9.	Functional & Non-Functional Requirements
